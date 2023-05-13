@@ -1,3 +1,5 @@
 chanchito triste triste
 Changhito gordo
-hija del chanchito
+=======
+hijo del chanchito
+>>>>>>> Stashed changes
